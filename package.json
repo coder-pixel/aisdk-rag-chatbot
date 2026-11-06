@@ -23,6 +23,7 @@
     "@streamdown/code": "^2.0.0",
     "@streamdown/math": "^1.0.3",
     "@streamdown/mermaid": "^1.0.3",
+    "@types/pdf-parse": "^1.1.5",
     "@xyflow/react": "^12.12.1",
     "ai": "^7.0.163",
     "ansi-to-react": "^6.2.6",
